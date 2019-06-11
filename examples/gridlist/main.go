@@ -6,7 +6,7 @@ import (
 
 	"github.com/mjl-/duit"
 
-	"9fans.net/go/draw"
+	draw "github.com/ktye/duitdraw"
 )
 
 func check(err error, msg string) {

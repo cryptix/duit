@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"9fans.net/go/draw"
+	draw "github.com/ktye/duitdraw"
 	"github.com/mjl-/duit"
 )
 

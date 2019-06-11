@@ -8,7 +8,7 @@ import (
 	"log"
 	"time"
 
-	"9fans.net/go/draw"
+	draw "github.com/ktye/duitdraw"
 
 	"github.com/mjl-/duit"
 )
